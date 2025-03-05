@@ -12,3 +12,4 @@ C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace
 C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.pdb
 C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.genruntimeconfig.cache
 C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\ref\Namespace_Kullanimi.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.sourcelink.json

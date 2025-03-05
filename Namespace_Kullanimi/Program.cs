@@ -41,3 +41,25 @@ namespace ProgramTest
         }
     }
 }
+
+//Araştırma kısmı:
+/*
+Namespace, C#’ta sınıfları, arayüzleri, yapıları ve diğer türleri organize etmek için kullanılan bir kapsayıcıdır.
+Büyük projelerde çakışmaları önlemek ve kod organizasyonunu kolaylaştırmak için kullanılır.
+Farklı Namespace’ler Kullanmanın Avantajları
+Kod Organizasyonu: Büyük projelerde kodun düzenli olmasını sağlar.
+İsim Çakışmalarını Önleme: Aynı isimde farklı sınıflar farklı namespace’ler altında bulunabilir.
+Modülerlik ve Bakım Kolaylığı: Farklı bileşenleri ayrı namespace’ler içinde tutmak, geliştirme ve bakım sürecini kolaylaştırır.
+Genişletilebilirlik ve Yeniden Kullanılabilirlik: Farklı modüllerin bağımsız çalışmasını sağlar, böylece kod yeniden kullanılabilir.
+Erişim Kontrolü: Farklı namespace’lerdeki bileşenlerin erişimini kontrol edebiliriz.
+
+Genişletilebilirlik, bir yazılımın yeni gereksinimlere uyum sağlayacak şekilde geliştirilmesini ifade eder.
+Bir yazılım genişletilebilir olduğunda, mevcut kodu değiştirmeden yeni özellikler eklemek mümkündür.
+Bir Yazılımı Genişletilebilir Yapmanın Yolları:
+1-SOLID Prensiplerine Uygunluk
+2-Modüler Tasarım
+3-Arayüzler (Interfaces) ve Soyutlama (Abstraction) Kullanımı
+4-Event ve Observer Deseni Kullanımı
+5-Factory ve Strategy Gibi Tasarım Kalıpları Kullanımı
+6-API ve Plugin Desteği
+*/
