@@ -1,0 +1,14 @@
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\bin\Debug\net8.0\Namespace_Kullanimi.exe
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\bin\Debug\net8.0\Namespace_Kullanimi.deps.json
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\bin\Debug\net8.0\Namespace_Kullanimi.runtimeconfig.json
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\bin\Debug\net8.0\Namespace_Kullanimi.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\bin\Debug\net8.0\Namespace_Kullanimi.pdb
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.AssemblyInfo.cs
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\refint\Namespace_Kullanimi.dll
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.pdb
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\Namespace_Kullanimi.genruntimeconfig.cache
+C:\Users\eneso.DESKTOP-IVNDOU7\OneDrive\Masaüstü\Namespace_Kullanimi\Namespace_Kullanimi\Namespace_Kullanimi\obj\Debug\net8.0\ref\Namespace_Kullanimi.dll
